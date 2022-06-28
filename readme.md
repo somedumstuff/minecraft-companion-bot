@@ -14,24 +14,8 @@ The bot is equipped to perform the following actions in creative mode:
 |chop|chops wood|
 |check for ``` mineral```|checks for a mineral|
 
-## DEMO GIFS
-#### Some of these commands were carried out in creative mode.
-
-```farming time```
-
-![](https://cdn.discordapp.com/attachments/991419906568495247/991420136307310682/ezgif-1-8a2e3b561d-comp.gif)
-
-```protecting player```
-
-![](https://cdn.discordapp.com/attachments/991419906568495247/991421202381934703/ezgif-1-cd90977dfb.gif)
-
-```guard home```
-
-![](https://cdn.discordapp.com/attachments/991419906568495247/991431581162033193/ezgif-1-a2de22d11e.gif)
-
-```follow me```
-
-![](https://cdn.discordapp.com/attachments/991419906568495247/991439219543265361/ezgif-1-dc2fe31493.gif)
+## DEMO
+https://www.youtube.com/watch?v=nGIzR-DAxSY
 
 ## TODO
 * Rework chopping in Survival Mode
